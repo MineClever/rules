@@ -1,10 +1,12 @@
-### The rules
+[TOC]
+
+## The rules
 
 Anysocks predefined process rule is a convenient way to proxy some already known programs without adding rules for them manually.
 
+ 
 
-
-### Dir Structure
+## Ⅰ: Dir tree
 
 + **icons**
 
@@ -26,9 +28,9 @@ Anysocks predefined process rule is a convenient way to proxy some already known
   >
   >   > `gen_guid.bat` is a wrapper of this script.
 
+  
 
-
-### Categories
+## Ⅱ: Categories
 
 + **POPULARS**
 
@@ -65,9 +67,9 @@ Anysocks predefined process rule is a convenient way to proxy some already known
 
   > All the software which can not fall into the above categories.
 
+ 
 
-
-### Rule
+## Ⅲ: Rule
 
 Literally a rule is a `.json` file, the top level could be either:
 
