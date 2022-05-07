@@ -81,7 +81,7 @@ Literally a rule is a `.json` file, the top level could be either:
 
 Here is a straightforward example to demonstrate what a rule loos like:
 
-```json
+```javascript
 //
 // Array indicate it contains multiple rules.
 //
