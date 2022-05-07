@@ -26,7 +26,7 @@ Anysocks predefined process rule is a convenient way to proxy some already known
   >
   > + `gen_guid.py` will generate a random GUID for you.
   >
-  >   > `gen_guid.bat` is a wrapper of this script.
+  > + `template.bat` can be used to generate a template config file with GUID filled in place.
 
   
 
