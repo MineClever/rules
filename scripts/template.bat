@@ -6,7 +6,7 @@ cls
 setlocal EnableDelayedExpansion
 
 :start
-echo Generate GUID Template to Copyborad
+echo Generate GUID Template to Copyboard
 echo.
 call :runScript
 pause
