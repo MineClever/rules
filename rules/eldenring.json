@@ -9,6 +9,9 @@
             "*\\steamapps\\common\\ELDEN RING\\*",
             "*\\Game\\eldenring.exe",
             "*\\ELDEN RING\\Game\\start_protected_game.exe"
-        ]
+        ],
+		"dependencies": [
+			"{9907e4d7-5ec6-408d-9fc7-adc96f3cd1a2}"
+		]
     }
 ]

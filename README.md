@@ -118,6 +118,13 @@ Here is a straightforward example to demonstrate what a rule loos like:
     "rules": [
       "steam.exe",
       "*\\bin\\cef\\*\\*.exe"
+    ],
+    //
+    // Sometimes a rule may rely on some other independent rules.
+    // For example, many network games (PUBG, Call Of Duty) rely on some           // sort of anti-cheat programs such as EAC, BatteEye, and so on.
+    //
+    "dependencies": [
+      "{9907e4d7-5ec6-408d-9fc7-adc96f3cd1a2}"
     ]
   },
   //
