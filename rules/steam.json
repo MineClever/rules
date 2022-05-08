@@ -7,7 +7,8 @@
     "icon": "steam.ico",
     "rules": [
       "steam.exe",
-      "*\\bin\\cef\\*\\*.exe"
+      "*\\bin\\cef\\*\\*.exe",
+      "*\\cef\\*\\*steam*.exe"
     ]
   },
   {
@@ -17,7 +18,9 @@
     "description": "Only the webview part of the Steam",
     "icon": "steam.ico",
     "rules": [
-      "*\\bin\\cef\\*\\*.exe"
+      "*\\bin\\cef\\*\\*.exe",
+      "*\\cef\\*\\*steam*.exe",
+      "steamservice.exe"
     ]
   },
   {
